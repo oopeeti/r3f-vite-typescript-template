@@ -5,6 +5,10 @@
 npm install -g typescript
 ```
 
+## Clone the repo and install dependencies
+```bash
+cd r3f-vite-typescript-template
+```
 ```bash
 cd r3f-vite-typescript-template
 ```
