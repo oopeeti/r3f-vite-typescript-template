@@ -1,4 +1,4 @@
-# Template with R3f, TypeScript and Vite
+# Template with R3F, TypeScript and Vite
 
 ## Overview
 
