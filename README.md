@@ -73,7 +73,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Support
 
 For issues or questions, please open an issue in the GitHub repository.
-
----
-
-You can adjust the sections as needed to more accurately reflect the specific aspects of your project. Also, make sure to update links like `CONTRIBUTING.md` and `LICENSE` if they exist in your repository.
